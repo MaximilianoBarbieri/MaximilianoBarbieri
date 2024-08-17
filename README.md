@@ -1,10 +1,10 @@
 **✒️ About Me:**
 
+👋 Hi! I'm Maximiliano, an Argentine Game Development student. I'm a developer in progress, interested in new technologies, adaptable to needs, and enjoy working in a team. Currently, I develop games in Unity and Unreal, always looking to learn and grow in the industry.
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoBarbieri&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
-
-👋 Hi! I'm Maximiliano, an Argentine Game Development student. I'm a developer in progress, interested in new technologies, adaptable to needs, and enjoy working in a team. Currently, I develop games in Unity and Unreal, always looking to learn and grow in the industry.
 
 **🌐 Socials:**
 
