@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B" alt="Krita" />
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black" alt="Sketch" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white" alt="Adobe After Effects" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
