@@ -1,6 +1,6 @@
 **✒️ About Me:**
 
-👋 Hi! I'm Maximiliano, an Argentine Game Development student. I'm a developer in progress, interested in new technologies, adaptable to needs, and enjoy working in a team. Currently, I develop games in Unity and Unreal, always looking to learn and grow in the industry.
+👋 Hi! I'm Maximiliano, an Argentine Game Development. I'm a developer in progress, interested in new technologies, adaptable to needs, and enjoy working in a team. Currently, I develop games in Unity and Unreal, always looking to learn and grow in the industry.
 
 🪄 I am currently collaborating with my teammates on our thesis project.
 
