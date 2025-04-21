@@ -26,16 +26,16 @@ I believe combining game and mobile development gives me a versatile and creativ
     <img src="https://i.ibb.co/S4sRs7RR/Mummy-1.png" alt="Mummy-1" height="50" />
 </div>
 
-- 🏺 **[Mummy's Escape](https://github.com/MaximilianoBarbieri/mummys-escape)**  
+- 🏺 **[Mummy's Escape]**  
   A third-person adventure and puzzle game set in ancient Egypt.  
   Developed in Unity, this game blends platforming and creative level design, featuring mystical mechanics like grappling hooks and ancient traps.  
   *Thesis project - currently in development.*
 
-- 🌌 **[Boids Flocking Simulation](https://github.com/MaximilianoBarbieri/boids-flocking-unity)**  
+- 🌌 **[Boids Flocking Simulation](https://github.com/MaximilianoBarbieri/AI-AGENT-VS-AGENT.git)**  
   A Unity simulation of flocking behaviors using Boids and interfaces for modular AI movement.  
   Includes field of view, obstacle avoidance, and dynamic behaviors with performance in mind.
 
-- 🧠 **[Tower Defense System](https://github.com/MaximilianoBarbieri/tower-defense-system)**  
+- 🧠 **[Tower Defense System]**  
   A modular tower defense prototype with grid placement, projectile management, and pathfinding using A*.  
   Fully coded in C# with a strong focus on gameplay systems architecture.
 
