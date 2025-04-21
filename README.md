@@ -1,43 +1,51 @@
+
 <h4 align="left">✒️ About Me</h4>
-
-<div align="right">
-  <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNlcjV3em82ZDlrNWwyMmpsMnpqb2ZtcDVqN20zdHlqMjA5NnVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JZ5KMPmFJ8wMLW3dlQ/giphy.gif" />
+<div>
+  <img align="right" height="75" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNlcjV3em82ZDlrNWwyMmpsMnpqb2ZtcDVqN20zdHlqMjA5NnVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JZ5KMPmFJ8wMLW3dlQ/giphy.gif" />
 </div>
-
-👋 Hi! I'm Maximiliano, a Game Developer from Argentina.  
-I'm passionate about game creation and always eager to learn and grow in this exciting industry.  
-Currently, I'm developing games using **Unity** and **Unreal Engine**, and I love working in collaborative environments where creativity and technology come together.  
-
-🎓 I'm currently working with my teammates on our **thesis project**, focused on developing a full 3D video game from scratch.
+👋 Hi! I'm Maximiliano, a Game & Mobile Developer from Argentina.
+🎓I studied Game Development at Escuela Da Vinci, where I strengthened my passion for code and interactive design.
+🕹️ I love creating games, exploring new technologies, and learning constantly.
+🚀 Currently working with Unity (C#) and Kotlin, and diving into Unreal Engine and clean architecture.
 
 ---
 
-<h4 align="left">📱 Also Learning</h4>
+<h4 align="left">🧱 Tech Stack & Projects</h4>
 
-I'm currently expanding my skills into **Android Development with Kotlin**,  
-building modern mobile apps while deepening my knowledge of UI/UX, architecture patterns and modern Android practices.  
-I believe combining game and mobile development gives me a versatile and creative mindset.
+### 🎮 Game Development
+
+> **Technologies**: Unity, C#, Unreal Engine  
+> **Architecture**: State Machines, GOAP, MVC, A\*\Theta pathfinding, Boids (flocking), events, etc.
+
+- 🏺 **Mummy's Escape**  <div align="right">
+  <img align="right" height="50" src="https://i.ibb.co/S4sRs7RR/Mummy-1.png" />
+</div>
+  3D adventure puzzle-platformer made in Unity for my thesis.  
+  Focused on physics-based interactions, collectible mechanics, and ancient Egypt vibes.
 
 ---
 
-<h4 align="left">🎮 Featured Projects</h4>
+### 📱 Android Development
 
-<div align="center">
-    <img src="https://i.ibb.co/S4sRs7RR/Mummy-1.png" alt="Mummy-1" height="50" />
+> **Technologies**: Kotlin, Android Studio
+
+---
+
+<h4 align="left">🧰 Tools & Languages</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="30" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
 </div>
-
-- 🏺 **[Mummy's Escape]**  
-  A third-person adventure and puzzle game set in ancient Egypt.  
-  Developed in Unity, this game blends platforming and creative level design, featuring mystical mechanics like grappling hooks and ancient traps.  
-  *Thesis project - currently in development.*
-
-- 🌌 **[Boids Flocking Simulation](https://github.com/MaximilianoBarbieri/AI-AGENT-VS-AGENT.git)**  
-  A Unity simulation of flocking behaviors using Boids and interfaces for modular AI movement.  
-  Includes field of view, obstacle avoidance, and dynamic behaviors with performance in mind.
-
-- 🧠 **[Tower Defense System]**  
-  A modular tower defense prototype with grid placement, projectile management, and pathfinding using A*.  
-  Fully coded in C# with a strong focus on gameplay systems architecture.
 
 ---
 
@@ -47,19 +55,6 @@ I believe combining game and mobile development gives me a versatile and creativ
   <img src="https://github-readme-stats.vercel.app/api?username=MaximilianoBarbieri&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="120" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaximilianoBarbieri&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=true" height="120" />
   <img src="https://streak-stats.demolab.com?user=MaximilianoBarbieri&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=true&border_radius=5" height="120" />
-</div>
-
----
-
-<h4 align="left">🛠️ Tech Stack</h4>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity" title="Unity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="Unreal" title="Unreal Engine" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin" title="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" title="Android" />
 </div>
 
 ---
