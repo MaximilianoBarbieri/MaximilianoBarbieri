@@ -1,11 +1,10 @@
 
 <h4 align="left">✒️ About Me</h4>
-<div>
-  <img align="right" height="75" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNlcjV3em82ZDlrNWwyMmpsMnpqb2ZtcDVqN20zdHlqMjA5NnVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JZ5KMPmFJ8wMLW3dlQ/giphy.gif" />
-</div>
-👋 Hi! I'm Maximiliano, a Game & Mobile Developer from Argentina.
-🎓I studied Game Development at Escuela Da Vinci, where I strengthened my passion for code and interactive design.
-🕹️ I love creating games, exploring new technologies, and learning constantly.
+<img align="right" height="75" style="margin-left: 10px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNlcjV3em82ZDlrNWwyMmpsMnpqb2ZtcDVqN20zdHlqMjA5NnVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JZ5KMPmFJ8wMLW3dlQ/giphy.gif" />
+
+👋 Hi! I'm Maximiliano, a Game & Mobile Developer from Argentina.  
+🎓 I studied Game Development at Escuela Da Vinci, where I strengthened my passion for code and interactive design.  
+🕹️ I love creating games, exploring new technologies, and learning constantly.  
 🚀 Currently working with Unity (C#) and Kotlin, and diving into Unreal Engine and clean architecture.
 
 ---
